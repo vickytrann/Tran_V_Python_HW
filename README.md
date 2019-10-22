@@ -16,3 +16,5 @@ Choose your weapon wisely!
 The computer chooses first; just follow the prompts 
 
 Built wuth Python 3. 
+
+https://docs.google.com/document/d/1dmlukIAuVVegZSdyJupv16vGdsegbIkjYcNNviXi5II/edit
