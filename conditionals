@@ -1,1 +1,10 @@
+# check a tempurature and output a result 
+#
+tempurature = int (input("input a number between 0 and 100"))
 
+if temperature <= 4:
+		print ("water is solid. cause it's frozen")
+elif temperature < 100:
+		print ("water is liquid")
+else:
+		print ("water is a gas. Cause it's boiling!")
